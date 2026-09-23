@@ -25,8 +25,8 @@ largeBtn.addEventListener('click', () => {
 
 
 xlargeBtn.addEventListener('click', () => {
-    image.style.width = '800px';
-    image.style.height = '800px';
+    image.style.width = '900px';
+    image.style.height = '900px';
 });
 
 xsmallBtn.addEventListener('click', () => {
