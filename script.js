@@ -9,8 +9,8 @@ const xsmallBtn = document.getElementById('xlargeBtn');
 
 // Funciones para cambiar el tamaño de la imagen
 smallBtn.addEventListener('click', () => {
-    image.style.width = '150px';
-    image.style.height = '150px';
+    image.style.width = '160px';
+    image.style.height = '160px';
 });
 
 mediumBtn.addEventListener('click', () => {
