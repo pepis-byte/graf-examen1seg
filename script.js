@@ -3,7 +3,7 @@ const image = document.getElementById('image');
 const smallBtn = document.getElementById('smallBtn');
 const mediumBtn = document.getElementById('mediumBtn');
 const largeBtn = document.getElementById('largeBtn');
-
+// botones agregadosss
 const xlargeBtn = document.getElementById('xsmallBtn');
 const xsmallBtn = document.getElementById('xlargeBtn');
 
